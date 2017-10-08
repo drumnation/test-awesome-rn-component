@@ -2,6 +2,7 @@
 	"name": "react-native-awesome-component",
 	"version": "0.1.0",
 	"description": "Awesome component does great stuff",
+	"main": "index.js",
 	"repository": "https://github.com/drumnation/react-native-awesome-component.git",
 	"homepage": "https://github.com/drumnation/react-native-awesome-component#readme",
 	"license": "MIT",
